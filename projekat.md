@@ -1,5 +1,5 @@
 Testni repozitorij
-Pozdrav iz web editora
+Pozdrav iz web editora(izmjena :) )
 
 # Tehnologije
 
